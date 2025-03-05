@@ -31,7 +31,8 @@ The tank will be controlled via the ESP32 Cam and will feature a turret to manag
 - **Images**: Contains images showing the tank’s appearance and assembly.
 
 ## To Do
-
+- [X] **3D file for touret**: knowing that the turret modeling of the tank is completed and functional this time.
+- [ ] **3D file for the rest of the tank**: Now that the turret is functional, model the rest of the tank.
 - [ ] **Control System**: Develop a complete control system to manage the tank remotely.
 - [ ] **Mixed Reality**: Integrate a mixed reality system to simulate a battle in the arena with another tank.
 - [ ] **Code Version**: Create a version of the code for both ESP32 and Arduino to control the tank via the website.
